@@ -6,7 +6,7 @@ body {
     font-family: "Roboto", serif;
     font-weight: 500;
     font-style: normal;
-    background-color: rgba(207, 207, 207, 0.82);
+    background-color:black
 }
 /* Seccion de administraion de elemntos Grid Principales*/
 .containergrid {
